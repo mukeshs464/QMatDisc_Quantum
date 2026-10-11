@@ -1,0 +1,11 @@
+{
+  "name": "qmatdisc-quantum",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Quantum Material Discovery Platform for Next-Generation Batteries",
+  "scripts": {
+    "build": "npm --prefix frontend run build",
+    "dev": "npm --prefix frontend run dev",
+    "preview": "npm --prefix frontend run preview"
+  }
+}
